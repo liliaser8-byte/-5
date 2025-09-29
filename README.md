@@ -7,7 +7,7 @@
 Завдання 2.
 <img width="582" height="86" alt="image" src="https://github.com/user-attachments/assets/74ef1c87-0bee-4468-8c7c-029a858aeddd" />
 <img width="573" height="39" alt="image" src="https://github.com/user-attachments/assets/e63b3ec6-9032-4708-b061-26dc2376d10d" />
-<img width="522" height="709" alt="image" src="https://github.com/user-attachments/assets/e88cc5e3-e936-418e-9f0e-9f0276895eb7" />
+<img width="443" height="639" alt="image" src="https://github.com/user-attachments/assets/228d1c6d-5444-4a40-9506-4ee91e13322f" />
 <img width="299" height="325" alt="image" src="https://github.com/user-attachments/assets/1c8b88d6-1e22-46c8-ad03-711c91f81d8a" />
 
 
